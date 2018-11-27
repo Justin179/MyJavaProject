@@ -1,4 +1,4 @@
-package generics.answers;
+package generics.samples;
 
 public class MySimpleGenerics {
 
